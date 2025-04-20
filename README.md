@@ -50,7 +50,8 @@ To design a clean, interactive dashboard that allows users to:
 4. 🧾 Top 10 products accounted for over **30%** of total sales.
 
 ---
-
+## Screenshot of the Dashboard
+![Dashboard Preview](Superstore.png)
 
 ## 🚀 Getting Started
 1. Clone this repo.
